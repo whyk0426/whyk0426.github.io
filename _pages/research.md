@@ -12,14 +12,16 @@ My research focuses on **Robotics** and **Reinforcement Learning**, with a parti
 
 ---
 
-## Publications & Presentations
+## Publications
+### Journal Publications
+* *Upcomming...*
 ### Conference Presentations
-* 김윤수, 박정원, 다중 로봇 환경에서의 맵 통합 기법, 제20회 한국로봇종합학술대회 논문집, 강원 알펜시아 컨벤션센터, 2025
+* **Yunsu Kim** and Jungwon Park, "Map Merging Techniques in Multi-Robot Environment", *Proc. of the 20th Korea Robotics Society Annual Conference (KRoC 2025)*, Gangwon, Korea, Feb. 2025. **(Poster)**
 
 ---
 
 ## Talks
-* *Upcoming...* ```
+* *Upcoming...* 
 
 ---
 
