@@ -29,11 +29,13 @@ author:
   location         : #"Seoul, South Korea"
   employer         : #"SeoulTech University"
   uri              : # URL
-  email            : "kkyyss426@gmail.com" 
+  
 
   github           : "whyk0426"
   youtube          : "yunsukim6086/videos"
   linkedin         : "whyk0426"
+  email            : "kkyyss426@gmail.com" 
+
   
   # Academic websites
   academia         : # URL
