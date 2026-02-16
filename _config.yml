@@ -25,11 +25,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Yunsu Kim"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Student at LARS Lab<br>Dept. of Mechanical Design and Robot Engineering<br>SeoulTech"
-  location         : "Seoul, South Korea"
-  employer         : "SeoulTech University"
+  bio              : "M.S. Student in Mechanical Design and Robot Engineering at LARS Lab, SeoulTech"
+  location         : #"Seoul, South Korea"
+  employer         : #"SeoulTech University"
   uri              : # URL
-  kkyyss426@gmail.com: "kkyyss426@gmail.com" 
+  email            : "kkyyss426@gmail.com" 
 
   # Academic websites
   academia         : # URL
