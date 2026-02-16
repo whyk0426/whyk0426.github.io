@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Research Interests
-My research focuses on **Multi-Robot Systems(MRS)** and **Reinforcement Learning**, with a particular interest in:
+My research focuses on **Multi-Robot Systems(MRS)**, with a particular interest in:
 
 
 ---
