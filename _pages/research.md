@@ -5,10 +5,8 @@ author_profile: true
 ---
 
 ## Research Interests
-My research focuses on **Robotics** and **Reinforcement Learning**, with a particular interest in:
-* **Model-based Reinforcement Learning**
-* **Sim-to-Real Transfer** for Quadruped Robots
-* **Optimal Control**
+My research focuses on **Multi-Robot Systems(MRS)** and **Reinforcement Learning**, with a particular interest in:
+
 
 ---
 
