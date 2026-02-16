@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a M.S. course student at SeoulTech University.
+I am an M.S. course student at Seoul National University of Science and Technology.
