@@ -1,0 +1,53 @@
+/* ==========================================================================
+   CV
+   ========================================================================== */
+
+.cv-page {
+  max-width: 52rem;
+  line-height: 1.55;
+
+  .cv-header {
+    margin-bottom: 2rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--global-code-background-color);
+    border-left: 4px solid var(--global-link-color);
+    border-radius: $border-radius;
+
+    h2 {
+      margin: 0 0 0.5rem;
+      padding: 0;
+      font-size: $type-size-3;
+      border: 0;
+    }
+
+    p {
+      margin: 0.35rem 0 0;
+    }
+  }
+
+  .cv-contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.75rem;
+    font-size: $type-size-6;
+  }
+
+  h2 {
+    margin: 2rem 0 0.75rem;
+    padding-bottom: 0.35rem;
+    font-size: $type-size-4;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+
+  ul {
+    margin-top: 0.5rem;
+  }
+
+  li + li {
+    margin-top: 0.45rem;
+  }
+
+  li ul {
+    margin-top: 0.3rem;
+  }
+}
