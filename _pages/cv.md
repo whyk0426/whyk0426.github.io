@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 Yunsu Kim
 ======
-M.S. Student, Department of Mechanical Design and Robot Engineering  
-LARS Lab, Seoul National University of Science and Technology
+* M.S. Student, Department of Mechanical Design and Robot Engineering  
+* LARS Lab, Seoul National University of Science and Technology
 
-Email: [kkyyss426@seoultech.ac.kr]  
-GitHub: [github.com/whyk0426](https://github.com/whyk0426)
+* Email: [kkyyss426@seoultech.ac.kr]  
+* GitHub: [github.com/whyk0426](https://github.com/whyk0426)
 
 Education
 ======
