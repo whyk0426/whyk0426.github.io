@@ -26,9 +26,13 @@ Research Interests
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Mechanical Design and Robot Engineering**<br>
+  Seoul National University of Science and Technology, Seoul, Korea<br>
+  Mar. 2026 – Feb. 2028 (expected)
+
+* **B.S. in Mechanical System Design Engineering**<br>
+  Seoul National University of Science and Technology, Seoul, Korea<br>
+  Mar. 2020 – Feb. 2026
 
 Work experience
 ======
