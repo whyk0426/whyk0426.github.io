@@ -16,6 +16,7 @@ Yunsu Kim
 * Email: [kkyyss426@seoultech.ac.kr]  
 * GitHub: [github.com/whyk0426](https://github.com/whyk0426)
 
+
 Research Interests
 ======
 * Multi-Agent Systems
@@ -23,6 +24,7 @@ Research Interests
 * Multi-Agent Path Finding (MAPF), including distributed approaches
 * Collision-Free Path Planning and Multi-Robot Collision Avoidance
 * Model Predictive Control (MPC)
+
 
 Education
 ======
@@ -33,6 +35,7 @@ Education
 * **B.S. in Mechanical System Design Engineering**<br>
   Seoul National University of Science and Technology, Seoul, Korea<br>
   Mar. 2020 – Feb. 2026
+  
 
 Work experience
 ======
