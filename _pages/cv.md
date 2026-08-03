@@ -16,6 +16,14 @@ Yunsu Kim
 * Email: [kkyyss426@seoultech.ac.kr]  
 * GitHub: [github.com/whyk0426](https://github.com/whyk0426)
 
+Research Interests
+======
+* Multi-Agent Systems
+* Fleet Management Systems (FMS)
+* Multi-Agent Path Finding (MAPF), including distributed approaches
+* Collision-Free Path Planning and Multi-Robot Collision Avoidance
+* Model Predictive Control (MPC)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
